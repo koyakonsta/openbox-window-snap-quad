@@ -2,6 +2,8 @@
 
 Patch to enable window snapping by dragging the window (aero snap) for openbox.
 
+![](https://github.com/koyakonsta/openbox-window-snap-quad/blob/master/demo.gif)
+
 Usage:
 
 ```bash
